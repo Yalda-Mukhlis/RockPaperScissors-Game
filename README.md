@@ -23,7 +23,6 @@ This project uses conditional decision-making (if/elif/else), user interaction h
 - Make sure Python is installed on your computer.
 - Download or clone the repository.
 - Open the project folder.
-- Run the script with:
-- python main.py
+- Run the script with: python task.py
 
 
